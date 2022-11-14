@@ -32,8 +32,9 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - Prioritization on the fly whatever the goals are;
 - Connecting people, resolving obstacles and conflicts;
 - Creating demo videos, scenarios, presentations, and slide decks;
+- Look and feel design, monitor voice and tone compliance;
 - Design prototypes, create user stories, MVPs;
-- Creating wireframes, UX best practices;
+- Building wireframes, UX best practices;
 - Market research, competitor analysis;
 - Writing rules for CDSS, FHIR Path, extraction rules;
 - QA/QC (white/black box), exploratory testing, writing test suites, test cases, STR, etc.;
@@ -41,7 +42,8 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - Planing exhibition booth (HIMSS, Global Summit);
 - Atlassian software (Jira, Confluence, Bitbucket, third-party integrations);
 - Figma design and other tools (Adobe Ps, Ai, Sketch, etc.);
-- Postman (RESTful).
+- Postman (RESTful)
+- Moderating and .
 
 My off-duty hobbies are 🎧 [DJing](http://djpr1me.com), building and riding 👨‍🦽 pit bikes (created a [website with manuals, schemes, and instructions](http://mypitbike.ru)), addicting in 🏎 sim racing (since 2002-2003), designing and building [sim rig cockpits](https://github.com/djpr1me/Sim-Rig-Cockpit) (Cad software), making [DIY hardware](https://github.com/djpr1me/Button-Box) (Arduino, Raspberry PI), planing interiors in SketchUp, learning the history of video game industry, retro-gaming, hacking and modding consoles. ❤️🐈.
 
