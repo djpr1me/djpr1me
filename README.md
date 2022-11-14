@@ -44,6 +44,6 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - Other design tools (Adobe Ps, Ai, Sketch, etc.);
 - Postman (RESTful).
 
-My off-duty hobbies are 💿 [DJing](http://djpr1me.com), building and riding 👨‍🦽 pit bikes (created a [website with manuals, schemes, and instructions](http://mypitbike.ru)), addicting in 🏎 sim racing (since 2002-2003), designing and building [sim rig cockpits](https://github.com/djpr1me/Sim-Rig-Cockpit) (Cad software), making [DIY hardware](https://github.com/djpr1me/Button-Box) (Arduino, Raspberry PI), planing interiors in SketchUp, learning the history of video game industry, retro-gaming, hacking and modding consoles. ❤️🐈.
+My off-duty hobbies are 🎧 [DJing](http://djpr1me.com), building and riding 👨‍🦽 pit bikes (created a [website with manuals, schemes, and instructions](http://mypitbike.ru)), addicting in 🏎 sim racing (since 2002-2003), designing and building [sim rig cockpits](https://github.com/djpr1me/Sim-Rig-Cockpit) (Cad software), making [DIY hardware](https://github.com/djpr1me/Button-Box) (Arduino, Raspberry PI), planing interiors in SketchUp, learning the history of video game industry, retro-gaming, hacking and modding consoles. ❤️🐈.
 
 📫 Reach out to me: `romapr1me at gmail dot com` ⌚︎ Europe/Moscow
