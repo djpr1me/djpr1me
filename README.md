@@ -17,7 +17,7 @@ Hi, my name is [Roman Biriukov](https://github.com/djpr1me) I am a product/proje
 Being the head of a product is like a swiss army knife you should understand and penetrate every process around you, to be half a programmer, database analyst, UX engineer, designer, software tester, and end-user.
 
 Last 5 years I built healthcare startups using NLP, AI technologies, a rule-based decision support system, and FHIR API.
-Before this was involved in creation of the PowerLinage tool (iOS/cloud app) for genetic counselors and genetic labs, lately acquired by Invitae Corporation (and became [Family History Tool](https://familyhistory.invitae.com/)) and Aluna Health habit builder/health tracker mobile app. Launching traffic management tool and 
+Before this was involved in creation of the PowerLinage tool (iOS/cloud app) for genetic counselors and genetic labs, lately acquired by Invitae Corporation (and became [Family History Tool](https://familyhistory.invitae.com/)) and Aluna Health habit builder/health tracker mobile app. Launching traffic management tool and took part in 20+ projects.
 I am independent, responsible, very flexible, and fast pacing, my every day consists of learning something new, adapting my/team's plans based on new inputs and feedback with continuous improvement of the development process.
 
 **Skills and experiences:**
