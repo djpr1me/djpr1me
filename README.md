@@ -27,6 +27,7 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - UMLS, CUI, TUI terminology (also SNOMED, ICD, and other ontologies);
 - Rule-based decision systems;
 - Natural language processing (mostly medical-focused) technologies;
+- Transforming text guidelines to BPMN executable;
 - Building product lifecycle, workflow, and automation;
 - Creating product roadmap, writing specs and requirements;
 - Prioritization on the fly whatever the goals are;
