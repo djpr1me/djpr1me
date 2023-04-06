@@ -13,14 +13,14 @@
 </a>
 <br /><br />
 
-Hi, my name is [Roman Biriukov](https://github.com/djpr1me) I am a product/project manager, scrum master, QA engineer, UX/UI designer with 10+ years of experience.
-Being the head of a product is like a swiss army knife you should understand and penetrate every process around you, to be half a programmer, database analyst, UX engineer, designer, software tester, and end-user.
+Hello, my name is [Roman Biriukov](https://github.com/djpr1me). I'm a seasoned Product/Project Manager, Scrum Master, QA Engineer, and UX/UI Designer with over 10 years of experience. Being a head of product is like being a Swiss Army knife – you need to have a deep understanding of every process involved. To excel in this role, it's crucial to possess a solid grasp of programming, database analysis, UX engineering, design, software testing, and end-user experience. I am passionate about creating products that users love, and I bring this drive to every project I work on.
 
-Last 5 years I built healthcare startups using NLP, AI technologies, a rule-based decision support system, and FHIR API.
-Before this was involved in creation of the PowerLinage tool (iOS/cloud app) for genetic counselors and genetic labs, lately acquired by Invitae Corporation (and became [Family History Tool](https://familyhistory.invitae.com/)) and Aluna Health habit builder/health tracker mobile app. Launching traffic management tool and took part in 20+ projects.
-I am independent, responsible, very flexible, and fast pacing, my every day consists of learning something new, adapting my/team's plans based on new inputs and feedback with continuous improvement of the development process.
+Over the past five years, I have focused on building healthcare startups using NLP, AI technologies, a rule-based decision support system, and FHIR API.
+Prior to this, I was involved in the creation of PowerLinage, an iOS and cloud app designed for genetic counselors and genetic labs. The tool was later acquired by Invitae Corporation and rebranded as the [Family History Tool](https://familyhistory.invitae.com/). Additionally, I contributed to the development of the [Aluna Health](https://web.archive.org/web/20171011010657/https://www.alunahealth.com/) habit builder/health tracker mobile app.
 
-**Skills and experiences:**
+Throughout my career, I have launched a traffic management tool and participated in over 20 projects. I am an independent, responsible, and flexible fast-paced professional. I strive to learn something new every day and am constantly adapting my own plans and those of my team based on new inputs and feedback, with a focus on continuous improvement of the development process.
+
+**Work Experience and Skills:**
 - Healthcare IT and cancer-informatics;
 - HL7 FHIR standard (DSTU2, STU3, R4), SMART-on-FHIR;
 - EHR software and sandbox (EPIC, InterSystems, AidBox, Logica);
@@ -34,10 +34,10 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - Connecting people, resolving obstacles and conflicts;
 - Creating demo videos, scenarios, presentations, and slide decks;
 - Look and feel design, monitor voice and tone compliance;
-- Design prototypes, create user stories, MVPs;
+- Design prototypes, create user stories, and MVPs;
 - Building wireframes, UX best practices;
 - Market research, competitor analysis;
-- Writing rules for CDSS, FHIR Path, extraction rules;
+- Writing rules for CDSS, FHIR Path, and extraction rules;
 - QA/QC (white/black box), exploratory testing, writing test suites, test cases, STR, etc.;
 - Delivering releases, what's new notes, email campaigns;
 - Planing exhibition booth (HIMSS, Global Summit);
@@ -46,6 +46,6 @@ I am independent, responsible, very flexible, and fast pacing, my every day cons
 - Postman (RESTful);
 - Moderated and maintained corporate pages (Facebook, Linkedin, Twitter) and website.
 
-My off-duty hobbies are 🎧 [DJing](http://djpr1me.com), building and riding 👨‍🦽 pit bikes (created a [website with manuals, schemes, and instructions](http://mypitbike.ru)), addicting in 🏎 sim racing (since 2002), designing and building [sim rig cockpits](https://github.com/djpr1me/Sim-Rig-Cockpit) (Cad software), making [DIY hardware](https://github.com/djpr1me/Button-Box) (Arduino, Raspberry PI), planing interiors in SketchUp, learning the history of video game industry, retro-gaming, hacking and modding consoles. ❤️🐈.
+When I'm not working, I have several hobbies that keep me busy. I enjoy 🎧 [DJing](http://djpr1me.com) and building and riding 🏍️ pitbikes – in fact, I created a [website](http://mypitbike.ru) that includes manuals, schemes, and instructions for service these bikes. I'm also a passionate 🏎 sim racer and have been since 2002. I love designing and building [sim rig cockpits](https://github.com/djpr1me/Sim-Rig-Cockpit) using CAD software, as well as creating [DIY hardware](https://github.com/djpr1me/Button-Box) using Arduino and Raspberry Pi. Additionally, I enjoy planning interiors in SketchUp, learning about the history of the video game industry, retro-gaming, and hacking and modding consoles. Last but not least, ❤️🐈!
 
 📫 Reach out to me: `romapr1me at gmail dot com` ⌚︎ Europe/Moscow
